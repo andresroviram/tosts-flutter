@@ -33,10 +33,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 
 ```
 # Clone this repository
-$ git clone https://github.com/andresroviram/tosts-flutter.git
+$ git clone https://github.com/andresroviram/tots-flutter.git
 
 # Go into the repository
-$ cd minimal_app
+$ cd tots-flutter
 
 # Install dependencies
 $ flutter pub get
